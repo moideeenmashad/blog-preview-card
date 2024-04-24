@@ -1,7 +1,11 @@
-/* body {
+@font-face {
+  font-family: Figtree !important;
+  src: url("assets/fonts/Figtree-VariableFont_wght.ttf") format("truetype");
+}
+body {
   min-height: 100vh;
   background-color: hsl(47, 88%, 63%) !important;
-  font-family: "Figtree", sans-serif !important;
+  font-family: Figtree !important;
   justify-content: center;
   align-items: center;
-} */
+}
